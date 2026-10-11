@@ -1,33 +1,33 @@
 # 作答資料
 
-- 學號：
-- 姓名：
+- 學號：9B217019
+- 姓名：黃柏菘
 
 ## 第 2 題：Git 的三個版本
 
 請填寫完成第二步後，`version.txt` 在三個位置中的內容。
 
-- 已提交版本：
-- 暫存區版本：
-- 工作區版本：
+- 已提交版本：v1
+- 暫存區版本：v2
+- 工作區版本：v3
 
 ### 使用的 Git 指令
 
 請填寫你用來確認三種差異的 Git 指令。
 
-1. 工作區 vs 暫存區：
+1. 工作區 vs 暫存區：git diff
 
    ```bash
    
    ```
 
-2. 暫存區 vs 上一次 commit：
+2. 暫存區 vs 上一次 commit：git diff--staged
 
    ```bash
    
    ```
 
-3. 工作區 vs 上一次 commit：
+3. 工作區 vs 上一次 commit：git diff HEAD
 
    ```bash
    
