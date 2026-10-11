@@ -19,19 +19,19 @@
 
    ```bash
    
-   ```
+   ```git diff
 
 2. 暫存區 vs 上一次 commit：git diff --staged
 
    ```bash
    
-   ```
+   ```git diff --staged
 
 3. 工作區 vs 上一次 commit：git diff HEAD
 
    ```bash
    
-   ```
+   ```git diff HEAD
 
 ## 完成前自我檢查
 
