@@ -21,7 +21,7 @@
    
    ```
 
-2. 暫存區 vs 上一次 commit：git diff--staged
+2. 暫存區 vs 上一次 commit：git diff --staged
 
    ```bash
    
