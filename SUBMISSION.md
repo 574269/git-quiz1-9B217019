@@ -15,23 +15,23 @@
 
 請填寫你用來確認三種差異的 Git 指令。
 
-1. 工作區 vs 暫存區：git diff
+1. 工作區 vs 暫存區：
 
    ```bash
    
-   ```git diff
+   git diff
 
-2. 暫存區 vs 上一次 commit：git diff --staged
-
-   ```bash
-   
-   ```git diff --staged
-
-3. 工作區 vs 上一次 commit：git diff HEAD
+2. 暫存區 vs 上一次 commit：
 
    ```bash
    
-   ```git diff HEAD
+   git diff --staged
+
+3. 工作區 vs 上一次 commit：
+
+   ```bash
+   
+   git diff HEAD
 
 ## 完成前自我檢查
 
